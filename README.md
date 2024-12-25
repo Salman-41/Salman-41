@@ -12,7 +12,7 @@
 <h2 align="center">Welcome to My GitHub Profile!</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend+-Backend-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20Project%20Management-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects-Open%20Source-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Always%20Growing-orange?style=for-the-badge" />
 </p>
@@ -20,21 +20,24 @@
 ---
 
 ## About Me
-- 💻 I'm a passionate developer exploring new technologies.  
-- 🔧 Currently working on various front-end and back-end projects.  
-- 🌱 Learning and building with Python, JavaScript, and modern frameworks.  
-- 🤝 Open to collaborating on impactful community projects.  
+- 💻 I'm a driven Data Analyst and Project Manager with experience in data analysis, project management, and software development.  
+- 🔧 Skilled in using Python, SQL, and visualization tools such as Seaborn and Matplotlib to extract insights and deliver actionable solutions.  
+- 🌱 Currently expanding my expertise in machine learning and project management methodologies like Agile and Scrum.  
+- 📈 Passionate about working on data-driven projects, optimizing workflows, and ensuring project success through efficient management practices.  
+- 🤝 Open to collaborating on impactful projects that bridge data analysis with project management to drive results.  
 
 ---
 
 ## Tech & Tools
 <p>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Seaborn-FF7F00?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Microsoft%20Project-003B57?style=for-the-badge&logo=microsoft-project&logoColor=white" />
 </p>
 
 ---
