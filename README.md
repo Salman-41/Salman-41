@@ -48,17 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-41&theme=react" alt="GitHub Streak" width="48%" />
 </p>
 
----
-
-## Projects Highlights
-- [Project 1](https://github.com/Salman-41/project1) - A concise description of the first project.
-- [Project 2](https://github.com/Salman-41/project2) - A concise description of the second project.
-- [Project 3](https://github.com/Salman-41/project3) - A concise description of the third project.
-
----
-
 ## Get in Touch
-- 📧 Email: [example@domain.com](mailto:example@domain.com)
+- 📧 Email: [example@domain.com](mailto:salman.yz@outlook.com)
 - 💼 LinkedIn: [Salman-41](https://www.linkedin.com/in/Salman-41/)
 - 🌐 Website/Portfolio: [Your Portfolio Link](https://www.yourwebsite.com) (Optional)
 
