@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋%20I'm%20Salman%20Yousufzai&fontSize=35&fontAlignY=30" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋%20I'm%20Salman%20&fontSize=35&fontAlignY=30" />
 </p>
 
 <h2 align="center">🚀 Data Scientist | 📊 Analyst | 🛠️ Project Manager</h2>
