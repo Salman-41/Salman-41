@@ -20,6 +20,7 @@
 - 🛠️ Experienced in agile team leadership, stakeholder coordination, and **remote project management**.
 - 🧰 Known for delivering **data-driven decisions** through interactive dashboards, predictions, and analytics pipelines.
 - 🤝 Open to **remote opportunities**, **collaborative contributions**, and **team-driven impact**.
+- 🌐 Visit my portfolio: [salmanyz.tech](https://salmanyz.tech) for more about my work, projects, and blog posts.
 
 ---
 
@@ -72,9 +73,9 @@
 ---
 
 ## 📬 Connect with Me
+- 🌐 Portfolio: [salmanyz.tech](https://salmanyz.tech)
 - 📧 Email: [salman.yz@outlook.com](mailto:salman.yz@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/salman-yz](https://www.linkedin.com/in/salman-yz/)  
-<!-- Portfolio: Coming Soon -->
 
 ---
 
