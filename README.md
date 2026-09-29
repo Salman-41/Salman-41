@@ -1,84 +1,43 @@
-<!-- Header Banner -->
+<h1 align="center">Hi, I’m Salman</h1>
+<p align="center"><strong>Software Engineering Graduate · Data Science & Machine Learning · Full-Stack Development</strong></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=160&section=header&text=Hi%20👋%20I'm%20Salman%20&fontSize=35&fontAlignY=30" />
-</p>
-
-<h2 align="center">🚀 Data Scientist | 📊 Analyst | 🛠️ Project Manager</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Specialty-Machine%20Learning%20%26%20Deep%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Management-Agile%20%7C%20Scrum-yellow?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Private%20Commits-900%2B-informational?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Growth-Lifelong%20Learner-orange?style=for-the-badge" />
+  <a href="https://salmanyz.tech">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/salman-yz/">LinkedIn</a> ·
+  <a href="mailto:salman.yz@outlook.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 Software Engineering graduate with strong grounding in **AI, ML, and full-stack data applications**.
-- ⚙️ Specialized in deploying **machine learning and deep learning models** with a focus on **MLOps**, **CI/CD**, and **model optimization**.
-- 🛠️ Experienced in agile team leadership, stakeholder coordination, and **remote project management**.
-- 🧰 Known for delivering **data-driven decisions** through interactive dashboards, predictions, and analytics pipelines.
-- 🤝 Open to **remote opportunities**, **collaborative contributions**, and **team-driven impact**.
-- 🌐 Visit my portfolio: [salmanyz.tech](https://salmanyz.tech) for more about my work, projects, and blog posts.
+## About me
 
----
+I’m a software engineering graduate from Pakistan. I enjoy solving problems with data and building useful web applications. I’m focused on data science, machine learning, and full-stack development.
 
-## 🔧 Skills & Tools
+I also have experience in teaching, school administration, and project coordination. These roles helped me build strong communication and planning skills.
 
-### 👨‍💻 Programming & Tools
-<p>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20FastAPI-009688?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+## Projects
 
-### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DL-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Transformers-0081CB?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
+- **[Bike Demand Lab](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/bike-demand)** — A Python and scikit-learn project that studies hourly bike rental demand and evaluates predictions over time.
+- **[NeuroScan](https://github.com/Salman-41/Neuroscan_tomur_detection)** — A computer vision project for detecting three types of brain tumors in MRI images.
+- **[Pickify](https://github.com/Salman-41/pickify)** — A marketing website for a Shopify design and development agency.
+- **[Tolwaz](https://www.tolwaz.com)** — A product review and affiliate website. Its [GitHub repository](https://github.com/Salman-41/tolwaz) is currently private.
+- **[Sales Desk](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/sales-desk)** — A tool for exploring sales data from CSV files.
+- **[Penguin Field Lab and World Progress](https://github.com/Salman-41/salman-portfolio-website/tree/main/src/data)** — Interactive data projects about penguins and global development.
 
-### 🧪 Data Science Stack
-<p>
-  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization-Seaborn-FF7F0E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BI-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+You can find more about my work on my [portfolio](https://salmanyz.tech).
 
-### ☁️ Cloud, DevOps & MLOps
-<p>
-  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-MLflow-0064a5?style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
+## Tools I use
 
----
+- **Programming:** Python, SQL, JavaScript, TypeScript
+- **Data and machine learning:** pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Power BI
+- **Web development:** Next.js, React, Flask, FastAPI
+- **Databases and tools:** PostgreSQL, Git, GitHub
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salman-41&show_icons=true&theme=react&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman-41&theme=react" width="48%" />
-</p>
+## About my GitHub activity
 
----
+Many of my projects are in private repositories while I develop them. This profile shows selected work that I can share publicly, so it does not show everything I have been working on. I’ll make more repositories public as they are ready to share.
 
-## 📬 Connect with Me
-- 🌐 Portfolio: [salmanyz.tech](https://salmanyz.tech)
-- 📧 Email: [salman.yz@outlook.com](mailto:salman.yz@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/salman-yz](https://www.linkedin.com/in/salman-yz/)  
+## Contact
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
-</p>
+- **Portfolio:** [salmanyz.tech](https://salmanyz.tech)
+- **LinkedIn:** [linkedin.com/in/salman-yz](https://www.linkedin.com/in/salman-yz/)
+- **Email:** [salman.yz@outlook.com](mailto:salman.yz@outlook.com)
