@@ -43,7 +43,7 @@ I’m focused on data science, machine learning, and full-stack development. I a
 
 ### Other project work
 
-Some of my projects are in private repositories or are still being developed. For example, I have worked on **Tolwaz**, a product review and affiliate website, **Phishing Detection**, **Resume Analyzer**, and **Product Sales Analysis**. I’ve linked Tolwaz below; its source repository is private for now.
+Some of my project work is in private repositories or is still being developed. A few examples are:\n\n- **Tolwaz** — A product review and affiliate website.\n- **Phishing URL Detection** — A classification project using a dataset of more than 822,000 URLs.\n- **Resume Analyzer** — An experiment comparing machine learning models for resume classification.\n- **Product Sales Analysis** — Data analysis and model comparison using 4,546 sales records.\n\nI’ve linked Tolwaz below; its source repository is private for now.
 
 My public GitHub activity shows only part of my work. I also develop projects locally and in notebooks, and I share more source code when it is ready.
 
