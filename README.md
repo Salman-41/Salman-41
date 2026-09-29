@@ -1,43 +1,73 @@
-<h1 align="center">Hi, I’m Salman</h1>
-<p align="center"><strong>Software Engineering Graduate · Data Science & Machine Learning · Full-Stack Development</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b464f,100:ab2645&height=210&section=header&text=Salman%20Yousufzai&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=58&descSize=17" alt="Salman Yousufzai — Data Science, Machine Learning, and Software Development" />
+</p>
+
 <p align="center">
   <a href="https://salmanyz.tech">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/salman-yz/">LinkedIn</a> ·
   <a href="mailto:salman.yz@outlook.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
 ---
 
 ## About me
 
-I’m a software engineering graduate from Pakistan. I enjoy solving problems with data and building useful web applications. I’m focused on data science, machine learning, and full-stack development.
+Hi, I’m Salman. I’m a software engineering graduate from Pakistan. I enjoy using data to understand problems and building useful applications with software.
 
-I also have experience in teaching, school administration, and project coordination. These roles helped me build strong communication and planning skills.
+I’m focused on data science, machine learning, and full-stack development. I also have experience in teaching, school administration, and project coordination. These roles helped me become a better communicator and plan work carefully.
 
-## Projects
+## What I’m working on
 
-- **[Bike Demand Lab](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/bike-demand)** — A Python and scikit-learn project that studies hourly bike rental demand and evaluates predictions over time.
-- **[NeuroScan](https://github.com/Salman-41/Neuroscan_tomur_detection)** — A computer vision project for detecting three types of brain tumors in MRI images.
-- **[Pickify](https://github.com/Salman-41/pickify)** — A marketing website for a Shopify design and development agency.
-- **[Tolwaz](https://www.tolwaz.com)** — A product review and affiliate website. Its [GitHub repository](https://github.com/Salman-41/tolwaz) is currently private.
-- **[Sales Desk](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/sales-desk)** — A tool for exploring sales data from CSV files.
-- **[Penguin Field Lab and World Progress](https://github.com/Salman-41/salman-portfolio-website/tree/main/src/data)** — Interactive data projects about penguins and global development.
+- Building machine learning projects with Python, pandas, NumPy, and scikit-learn
+- Learning how to evaluate models carefully and explain their results
+- Creating websites and tools that are clear and easy to use
 
-You can find more about my work on my [portfolio](https://salmanyz.tech).
+## Selected projects
+
+### Public projects
+
+- **[Bike Demand Lab](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/bike-demand)** — A Python machine learning project that estimates hourly bike rentals. It compares several models and tests them on a later time period.
+- **[NeuroScan](https://github.com/Salman-41/Neuroscan_tomur_detection)** — A YOLOv8 computer vision prototype for identifying three types of brain tumors in MRI images.
+- **[Pickify](https://github.com/Salman-41/pickify)** — A responsive website for a Shopify design and development agency.
+- **[Sales Desk](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/sales-desk)** — A browser based tool for exploring sales data from CSV files.
+- **[Penguin Field Lab and World Progress](https://github.com/Salman-41/salman-portfolio-website/tree/main/src/data)** — Interactive projects that explore penguin measurements and historical data about countries.
+
+### Other project work
+
+Some of my projects are in private repositories or are still being developed. For example, I have worked on **Tolwaz**, a product review and affiliate website, **Phishing Detection**, **Resume Analyzer**, and **Product Sales Analysis**. I’ve linked Tolwaz below; its source repository is private for now.
+
+My public GitHub activity shows only part of my work. I also develop projects locally and in notebooks, and I share more source code when it is ready.
 
 ## Tools I use
 
 - **Programming:** Python, SQL, JavaScript, TypeScript
-- **Data and machine learning:** pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Power BI
+- **Data and machine learning:** pandas, NumPy, scikit-learn, PyTorch, OpenCV, Matplotlib
 - **Web development:** Next.js, React, Flask, FastAPI
-- **Databases and tools:** PostgreSQL, Git, GitHub
+- **Database and reporting:** PostgreSQL, Power BI
+- **Project tools:** Git, GitHub, Excel
 
-## About my GitHub activity
+## Education and certificates
 
-Many of my projects are in private repositories while I develop them. This profile shows selected work that I can share publicly, so it does not show everything I have been working on. I’ll make more repositories public as they are ready to share.
+- **BS Software Engineering** — Virtual University of Pakistan
+- **Data Analyst Professional Certificate** — DataCamp
+- **Data Scientist Professional Certificate** — DataCamp
+- **Google Project Management Certificate** — Coursera
+- **Atlassian Agile Project Management Professional Certificate**
 
-## Contact
+## Connect with me
 
 - **Portfolio:** [salmanyz.tech](https://salmanyz.tech)
 - **LinkedIn:** [linkedin.com/in/salman-yz](https://www.linkedin.com/in/salman-yz/)
 - **Email:** [salman.yz@outlook.com](mailto:salman.yz@outlook.com)
+- **Tolwaz:** [Live website](https://www.tolwaz.com) · [Private GitHub repository](https://github.com/Salman-41/tolwaz)
+
+<p align="center"><sub>Thanks for visiting my profile.</sub></p>
