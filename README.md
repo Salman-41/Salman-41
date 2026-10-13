@@ -1,73 +1,80 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b464f,100:ab2645&height=210&section=header&text=Salman%20Yousufzai&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=58&descSize=17" alt="Salman Yousufzai — Data Science, Machine Learning, and Software Development" />
-</p>
+<!-- A curated portfolio rather than a wall of badges or automated statistics. -->
 
-<p align="center">
-  <a href="https://salmanyz.tech">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/salman-yz/">LinkedIn</a> ·
-  <a href="mailto:salman.yz@outlook.com">Email</a>
-</p>
+<sup>INDEPENDENT PRACTICE / CREATIVE DEVELOPMENT · SOFTWARE · DATA</sup>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+# Salman Yousufzai
+
+### Making complex things feel tangible.
+
+I design and build interactive websites, software products, and data experiences. My work moves between **creative frontend development**, **full-stack engineering**, and **applied data science**—with a focus on making the details useful, legible, and worth exploring.
+
+**[Explore my portfolio ↗](https://salmn.dev)** &nbsp; / &nbsp; **[Selected work ↗](https://salmn.dev/work)** &nbsp; / &nbsp; **[Get in touch ↗](mailto:salmn.contact@gmail.com)**
 
 ---
 
-## About me
+### Currently exploring
 
-Hi, I’m Salman. I’m a software engineering graduate from Pakistan. I enjoy using data to understand problems and building useful applications with software.
+**Material as interface.** Making with digital textiles, responsive motion, structural visuals, and editorial storytelling.
 
-I’m focused on data science, machine learning, and full-stack development. I also have experience in teaching, school administration, and project coordination. These roles helped me become a better communicator and plan work carefully.
+**Data with context.** Building transparent analytical tools, models, and interfaces that keep assumptions and source material visible.
 
-## What I’m working on
+**Engineering with intent.** Reliable TypeScript/React systems, Python data pipelines, clear documentation, and carefully tested interactions.
 
-- Building machine learning projects with Python, pandas, NumPy, and scikit-learn
-- Learning how to evaluate models carefully and explain their results
-- Creating websites and tools that are clear and easy to use
+---
 
-## Selected projects
+## Selected work
 
-### Public projects
+### THE WRONG SIDE <sup>— INTERACTIVE TEXTILE EXHIBITION</sup>
 
-- **[Bike Demand Lab](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/bike-demand)** — A Python machine learning project that estimates hourly bike rentals. It compares several models and tests them on a later time period.
-- **[NeuroScan](https://github.com/Salman-41/Neuroscan_tomur_detection)** — A YOLOv8 computer vision prototype for identifying three types of brain tumors in MRI images.
-- **[Pickify](https://github.com/Salman-41/pickify)** — A responsive website for a Shopify design and development agency.
-- **[Sales Desk](https://github.com/Salman-41/salman-portfolio-website/tree/main/analysis/sales-desk)** — A browser based tool for exploring sales data from CSV files.
-- **[Penguin Field Lab and World Progress](https://github.com/Salman-41/salman-portfolio-website/tree/main/src/data)** — Interactive projects that explore penguin measurements and historical data about countries.
+<a href="https://github.com/Salman-41/the-wrong-side"><img src="https://raw.githubusercontent.com/Salman-41/the-wrong-side/main/Design/entrance-desktop.png" width="100%" alt="The Wrong Side — textile-led fashion-editorial opening composition" /></a>
 
-### Other project work
+A digital exhibition where the visible surface is only half the story. **Weave a cloth, turn it over, examine the thread structure, work with patterns, explore documented museum textiles, and make a print.**
 
-Some of my project work is in private repositories or is still being developed. A few examples are:\n\n- **Tolwaz** — A product review and affiliate website.\n- **Phishing URL Detection** — A classification project using a dataset of more than 822,000 URLs.\n- **Resume Analyzer** — An experiment comparing machine learning models for resume classification.\n- **Product Sales Analysis** — Data analysis and model comparison using 4,546 sales records.\n\nI’ve linked Tolwaz below; its source repository is private for now.
+`Next.js` · `React` · `TypeScript` · `Canvas 2D` · `GSAP`
 
-My public GitHub activity shows only part of my work. I also develop projects locally and in notebooks, and I share more source code when it is ready.
+**[Explore the source and design ↗](https://github.com/Salman-41/the-wrong-side)** · *Website release/testing in progress*
 
-## Tools I use
+<br/>
 
-- **Programming:** Python, SQL, JavaScript, TypeScript
-- **Data and machine learning:** pandas, NumPy, scikit-learn, PyTorch, OpenCV, Matplotlib
-- **Web development:** Next.js, React, Flask, FastAPI
-- **Database and reporting:** PostgreSQL, Power BI
-- **Project tools:** Git, GitHub, Excel
+### VANISHING FREQUENCIES <sup>— IMMERSIVE WILDLIFE DOCUMENTARY</sup>
 
-## Education and certificates
+<a href="https://github.com/Salman-41/VANISHING-FREQUENCIES"><img src="https://raw.githubusercontent.com/Salman-41/VANISHING-FREQUENCIES/main/docs/review/creative/after/desktop-opening.jpg" width="100%" alt="Vanishing Frequencies — cinematic wildlife documentary opening" /></a>
 
-- **BS Software Engineering** — Virtual University of Pakistan
-- **Data Analyst Professional Certificate** — DataCamp
-- **Data Scientist Professional Certificate** — DataCamp
-- **Google Project Management Certificate** — Coursera
-- **Atlassian Agile Project Management Professional Certificate**
+Environmental storytelling through photography, spatial interaction, sound, and attributed biodiversity research. Six selected species and a documented, explorable ecological narrative.
 
-## Connect with me
+`Next.js` · `GSAP` · `Three.js` · `Web Audio` · `D3`
 
-- **Portfolio:** [salmanyz.tech](https://salmanyz.tech)
-- **LinkedIn:** [linkedin.com/in/salman-yz](https://www.linkedin.com/in/salman-yz/)
-- **Email:** [salman.yz@outlook.com](mailto:salman.yz@outlook.com)
-- **Tolwaz:** [Live website](https://www.tolwaz.com) · [Private GitHub repository](https://github.com/Salman-41/tolwaz)
+**[Source, case study and credits ↗](https://github.com/Salman-41/VANISHING-FREQUENCIES)**
 
-<p align="center"><sub>Thanks for visiting my profile.</sub></p>
+---
+
+### Building across disciplines
+
+| Project | What it explores |
+| :-- | :-- |
+| **[Pakistan Data Platform](https://github.com/Salman-41/pakistan-data-platform)** | A provenance-aware workspace for official Pakistani census and price data, with Python pipelines and analytical tools. |
+| **[ATLAS BI](https://github.com/Salman-41/atlas-bi)** | Large-scale retail-event analysis and machine-learning workflows built around authentic event data. |
+| **[FIELDWORK — Enterprise E-Commerce](https://github.com/Salman-41/Enterprise-E-Commerce)** | Editorial storefront, inventory reservations, transactions, and operational workflows; demo checkout. |
+| **[Bike Demand Lab](https://salmn.dev/bike-demand)** | Time-aware forecasting and evaluation, with reproducible analysis and interactive results. |
+| **[NeuroScan](https://github.com/Salman-41/Neuroscan_tomur_detection)** | Research prototype for computer-vision tumor detection; not a clinical diagnostic product. |
+
+More analytical experiments and smaller projects live at **[salmn.dev/work ↗](https://salmn.dev/work)**.
+
+---
+
+## How I work
+
+- **Creative & web:** TypeScript, JavaScript, React, Next.js, HTML/CSS, GSAP, Canvas, SVG
+- **Data & ML:** Python, SQL, pandas, NumPy, scikit-learn, visualization, model evaluation
+- **Systems:** APIs, PostgreSQL, Git, testing, documentation, reproducible research
+- **Collaboration:** Project planning, stakeholder communication, education and team leadership
+
+I studied **Software Engineering at the Virtual University of Pakistan**. My work and previous experience in education and project coordination inform how I approach both the technical and human sides of a product.
+
+---
+
+### Elsewhere
+
+[**Portfolio**](https://salmn.dev) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/salman-yz/) &nbsp;·&nbsp; [**Email**](mailto:salmn.contact@gmail.com)
+
+<sub>Designed and built from Pakistan. Source repositories are linked where available; prototypes and demonstrations are labeled as such.</sub>
